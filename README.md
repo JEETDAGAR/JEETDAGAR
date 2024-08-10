@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 - 🔭 I’m currently working on **AWS**
 
-- 🌱 I’m currently learning **Terraform, Docker**
+- 🌱 I’m currently learning **Kubernetes,Terraform, Docker**
 
-- 💬 Ask me about **AWS Services, Terraform, Docker**
+- 💬 Ask me about **AWS Services,Kubernetes, Azure, Terraform, Docker**
 
 - 📫 How to reach me **luciferk954890@gmail.com**
 
