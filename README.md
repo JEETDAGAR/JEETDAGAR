@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm JEET DAGAR</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-- 🔭 I’m currently working on **AWS**
+- 🔭 I’m currently working on **AWS,Kubernetes,Terraform,CI/CD**
 
-- 🌱 I’m currently learning **Kubernetes,Terraform, Docker**
+- 🌱 I’m currently learning **Kubernetes,Terraform, Docker, Azure**
 
 - 💬 Ask me about **AWS Services,Kubernetes, Azure, Terraform, Docker**
 
