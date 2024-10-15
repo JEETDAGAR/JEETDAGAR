@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **AWS Services,Kubernetes, Azure, Terraform, Docker**
 
-- 📫 How to reach me **luciferk954890@gmail.com**
+- 📫 How to reach me **jeetdagar23@gmail.com**
 
 - ⚡ Fun fact **I am good at writing poetry**
 
