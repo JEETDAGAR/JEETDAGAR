@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 - 🔭 I’m currently working on AWS,Kubernetes,Terraform,CI/CD
 
-- 🌱 I’m currently learning **Kubernetes,Terraform, Docker, Azure**
+- 🌱 I’m currently learning **Kubernetes,Terraform, Docker**
 
-- 💬 Ask me about **AWS Services,Kubernetes, Azure, Terraform, Docker**
+- 💬 Ask me about **AWS Services,Kubernetes, Terraform, Docker**
 
 - 📫 How to reach me **jeetdagar23@gmail.com**
 
